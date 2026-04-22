@@ -1,0 +1,17 @@
+{
+  "model_info": {
+    "provider": "mistral",
+    "name": "/cpfs01/projects-HDD/cfff-86e8d1f66557_HDD/public/llm_models/Mistral-7B-v0.3"
+  },
+  "api_key_info": {
+    "api_keys": [],
+    "api_key_use": 0
+  },
+  "params": {
+    "temperature": 0.1,
+    "seed": 100,
+    "gpus": [0],
+    "device": "cuda",
+    "max_output_tokens": 150
+  }
+}
